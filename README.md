@@ -34,6 +34,7 @@ where.exe python
 This will deliver you the python versions you have on your device in the environment variables. If the wrong version is at the top, you will need to change the order of your environment variables. If there is no python you will need to install it [here](https://www.python.org/downloads/), and make sure you add this to your environment variables: 
 
 `C:\Users\[yourusername]\AppData\Local\Programs\Python\Python310\Scripts\`
+
 `C:\Users\[yourusername]\AppData\Local\Programs\Python\Python310\`
 
 > [!Note] 
