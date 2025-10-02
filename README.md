@@ -14,8 +14,9 @@ ffmpeg
 ## 2. whisper
 Follow this whisper youtube tutorial: 
 [Easy Whisper Installation](https://www.youtube.com/watch?v=R5pZPpIIUzA)
+If you find it sus because it has some third party links, move on to the next step for the manual installation. 
 
-If you get any errors with this oneline solution, follow the manual steps:
+If you get any errors with this one line solution, follow the manual steps:
 [text](https://hub.tcno.co/ai/whisper/install/)
 !Important!: Dont listen to the steps where they rename the python executables. Just follow my steps below
 
