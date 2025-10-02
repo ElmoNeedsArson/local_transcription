@@ -19,7 +19,7 @@ If you find it sus because it has some third party links, move on to the next st
 If you get any errors with this one line solution, follow the manual steps:
 [text](https://hub.tcno.co/ai/whisper/install/)
 
-> [!Important:]
+> [!Important]
 > Dont listen to the steps where they rename the python executables. Just follow my steps below
 
 If you have issues with your python version, good fucking luck. But you can start by running
@@ -37,7 +37,7 @@ This will deliver you the python versions you have on your device in the environ
 `C:\Users\[yourusername]\AppData\Local\Programs\Python\Python310\Scripts\`
 `C:\Users\[yourusername]\AppData\Local\Programs\Python\Python310\`
 
-> [!Note:] 
+> [!Note] 
 > This is the most likely path, but check where your python is installed. And ofcourse change the Python310 to reflect the actual version you are using in the environment variable. 
 
 After the python version is correct, retry the oneliner from the video, if it still does not work, go back to the manual steps. 
