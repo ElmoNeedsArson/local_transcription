@@ -19,7 +19,8 @@ If you find it sus because it has some third party links, move on to the next st
 If you get any errors with this one line solution, follow the manual steps:
 [text](https://hub.tcno.co/ai/whisper/install/)
 
-!Important!: Dont listen to the steps where they rename the python executables. Just follow my steps below
+> [!Important:]
+> Dont listen to the steps where they rename the python executables. Just follow my steps below
 
 If you have issues with your python version, good fucking luck. But you can start by running
 ```sh
@@ -32,9 +33,12 @@ Run:
 where.exe python
 ```
 This will deliver you the python versions you have on your device in the environment variables. If the wrong version is at the top, you will need to change the order of your environment variables. If there is no python you will need to install it [here](https://www.python.org/downloads/), and make sure you add this to your environment variables: 
+
 `C:\Users\[yourusername]\AppData\Local\Programs\Python\Python310\Scripts\`
 `C:\Users\[yourusername]\AppData\Local\Programs\Python\Python310\`
-Note: This is the most likely path, but check where your python is installed. And ofcourse change the Python310 to reflect the actual version you are using in the environment variable. 
+
+> [!Note:] 
+> This is the most likely path, but check where your python is installed. And ofcourse change the Python310 to reflect the actual version you are using in the environment variable. 
 
 After the python version is correct, retry the oneliner from the video, if it still does not work, go back to the manual steps. 
 
@@ -48,6 +52,7 @@ Put the plugin folder into the `.obsidian\plugins\` directory. (Could use git cl
 Or if publicly listed, download from the community plugins.
 
 You will need to run some npm initialization commands, to actually run and update the plugin.
+
 ```sh
 npm init
 npm install
