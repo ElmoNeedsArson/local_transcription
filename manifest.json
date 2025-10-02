@@ -1,0 +1,9 @@
+{
+  "id": "local_transcribtion",
+  "name": "Local Audio Transcriber",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Transcribe linked audio files in a note using Whisper CLI",
+  "author": "You",
+  "isDesktopOnly": true
+}

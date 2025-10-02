@@ -1,0 +1,13 @@
+{
+    "name": "local-transcriber",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "build": "esbuild src/main.ts --bundle --outfile=main.js --platform=node --external:obsidian"
+    },
+    "devDependencies": {
+        "@types/node": "^24.6.2",
+        "esbuild": "^0.17.0",
+        "obsidian": "^1.10.0"
+    }
+}
