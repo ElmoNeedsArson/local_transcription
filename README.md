@@ -67,4 +67,4 @@ npm run build
 
 Lastly: In obsidian turn the plugin on. 
 
-Notes: The plugin (through whisper) generates 5 files that contain the extracted text of the audio in the same folder as your audio file is located. It will then delete this files to not unnnecsarrily clutter your folders. Be aware if you have a (".txt", ".json", ".vtt", ".srt", ".tsv") note with the same name as your audio in said folder, the plugin will delete it. 
+Notes: The plugin (through whisper) generates 5 files that contain the extracted text of the audio in the same folder as your audio file is located. It will then delete these files to not unnecessarily clutter your folders. Be aware if you have a (".txt", ".json", ".vtt", ".srt", ".tsv") note with the same name as your audio in said folder, the plugin will delete it. 
