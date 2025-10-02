@@ -18,6 +18,7 @@ If you find it sus because it has some third party links, move on to the next st
 
 If you get any errors with this one line solution, follow the manual steps:
 [text](https://hub.tcno.co/ai/whisper/install/)
+
 !Important!: Dont listen to the steps where they rename the python executables. Just follow my steps below
 
 If you have issues with your python version, good fucking luck. But you can start by running
